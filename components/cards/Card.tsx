@@ -1,7 +1,7 @@
 import React from 'react'
-import imgs from "1.png"
+
 import { Card, CardHeader, CardBody, CardFooter, Flex, Avatar, IconButton, Heading, Text, Button, Box, Image, Badge } from '@chakra-ui/react'
-import { StaticImageData } from 'next/image'
+
 import { heart } from "../../constants/constants"
 
 type AppProps = {
